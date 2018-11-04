@@ -1,1 +1,1 @@
-# Creating-a-SVG-Image
+# This project is at a halt as of now!
